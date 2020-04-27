@@ -2,7 +2,8 @@
 1. Replace `<your_account>` with your Github username in the links
     - [DEMO LINK](https://tanyamoore.github.io/tools-using-exam/)
     - [TEST REPORT LINK](https://tanyamoore.github.io/tools-using-exam/report/html_report/)
-    - [VIDEO LINK](https://www.loom.com/share)
+    - [VIDEO LINK](https://www.loom.com/share/fc94ea7b656340ba861a49bb5d64061d)
+
 2. Follow [this instructions](https://mate-academy.github.io/layout_task-guideline/)
 ___
 
